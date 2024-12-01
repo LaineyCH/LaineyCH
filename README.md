@@ -1,4 +1,4 @@
-## Hi there 👋
+## 🔭 I’m currently working on an imaginary Chamber of Commerce Website: <a href="https://laineych.github.io/wdd231/chamber/index.html">https://laineych.github.io/wdd231/chamber/index.html</>a>
 
 <!--
 **LaineyCH/LaineyCH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
