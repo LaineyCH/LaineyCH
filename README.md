@@ -1,4 +1,8 @@
-I’m currently working on an imaginary Chamber of Commerce Website: [https://laineych.github.io/wdd231/chamber/index.html](https://laineych.github.io/wdd231/chamber/index.html)
+Just completed a Certificate in Web & Computer Programming, working towards a BSc degree in Software Development through BYUi Online.
+
+Working on an imaginary Chamber of Commerce Website: [https://laineych.github.io/wdd231/chamber/index.html](https://laineych.github.io/wdd231/chamber/index.html)
+
+⚡ Fun fact: I already have a BSC degree in Ecology and COmputing, completed in 2010, and I am also an artist and designer.
 
 <!--
 **LaineyCH/LaineyCH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
